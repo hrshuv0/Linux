@@ -143,7 +143,10 @@ go extract folder
 # Make Desktop entry for STS
 
 opn STS.desktop file
+
     sudo nano /usr/share/applications/STS.desktop
+
+Copy given below lines and pest
 
 
     [Desktop Entry]
